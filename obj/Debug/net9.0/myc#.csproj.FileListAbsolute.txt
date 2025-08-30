@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\myc#\bin\Debug\net9.0\myc#.exe
+C:\Users\Admin\Desktop\myc#\bin\Debug\net9.0\myc#.deps.json
+C:\Users\Admin\Desktop\myc#\bin\Debug\net9.0\myc#.runtimeconfig.json
+C:\Users\Admin\Desktop\myc#\bin\Debug\net9.0\myc#.dll
+C:\Users\Admin\Desktop\myc#\bin\Debug\net9.0\myc#.pdb
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\myc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\myc#.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\myc#.AssemblyInfo.cs
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\myc#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\myc#.dll
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\refint\myc#.dll
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\myc#.pdb
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\myc#.genruntimeconfig.cache
+C:\Users\Admin\Desktop\myc#\obj\Debug\net9.0\ref\myc#.dll
